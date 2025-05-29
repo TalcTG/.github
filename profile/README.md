@@ -1,6 +1,6 @@
 ## Тальк
 
-![Авторство: Didier Descouens. Собственная работа, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=6655965](https://github.com/user-attachments/assets/8aad3658-c374-46d1-9dd2-f9c164f3b357)
+![Didier Descouens. CC BY-SA 4.0. commons.wikimedia.org/w/index.php?curid=6655965](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Talc.jpg/1920px-Talc.jpg)
 
 Тальк — это мягкий минерал с твёрдостью 1 по шкале Мооса, состоящий из гидратированного силиката магния и обладающий высокой устойчивостью к кислотам и высоким температурам.
 
