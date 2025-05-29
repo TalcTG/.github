@@ -6,4 +6,4 @@
 
 Описание клиента находится непосредственно в [репозитории](https://github.com/TalcTG/talc).
 
-[in English, please](./README-en.md)
+Будьте добры, по-русски | [in English, please](./README-en.md)
